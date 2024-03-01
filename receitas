@@ -11,7 +11,7 @@
             padding: 0;
         }
         header {
-            background-color: #f2f2f2;
+            background-color: #ffffff;
             padding: 20px;
             text-align: center;
         }
@@ -49,7 +49,7 @@
             margin-top: 0;
         }
         .recipe p {
-            color: #666;
+            color: #020101;
         }
     </style>
 </head>
@@ -164,32 +164,28 @@
 </body>
 </html>
 <div id="lasanha" class="recipe">
-    <h2>BOLO DE CENOURA </h2>
+    <h2>BOLO de caneca de micro-ondas</h2>
     <p>Ingredientes:</p>
     <ul>
-        <li>2 xícara (chá) de cenoura picada</li>
-        <li>2 xícaras (chá) de açúcar</li>
-        <li>1 xícara (chá) de óleo</li>
-        <li>4 ovos</li>
-        <li>2 xícaras (chá) de farinha de trigo</li>
-        <li>1 colher (café) de fermento em pó</li>
-
-    <p>Cobertura</p>
+        <li>1 ovo</li>
+        <li>3 colheres (sopa) rasas de açúcar</li>
+        <li>1 colher (sopa) de óleo</li>
+        <li>4 colheres (sopa) de leite</li>
+        <li>2 colheres (sopa) de achocolatado em pó</li>
+        <li>4 colheres (sopa) rasas de farinha de trigo</li>
+        <li>1 colher (café) rasa de fermento em pó</li>
+    <p>calda</p>
     <ul> 
-        <li>1 lata de leite condensado</li>
-        <li>1 colher cheia de margarina</li>
-        <li>1 caixinha de creme de leite</li>
-        <li>3 colheres cheias de chocolate em pó</li>
+        <li>2 colheres (sopa) de achocolatado em pó</li>
+        <li>2 colheres (sopa) de achocolatado em pó</li>
+        <li>1 colher (sopa) de margarina</li>
     <p>Modo de Preparo:</p>
     <ol>
-        <li>Separe as claras das gemas.</li>
-        <li>Bata as claras em neve e reserve.</li>
-        <li>No liquidificador coloque a cenoura, o óleo e as gemas e bata por 5 minutos</li>
-        <li>Em uma tigela misture a farinha de trigo, o fermento e o açúcar, misture bem.</li>
-        <li>Depois junte os ingredientes batidos, misture bem, por último junte as claras em neve.</li>
-       <li>Em uma assadeira untada leve para assar em forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até que fure com um palito e ele saia limpo.</li>
-       <p>modo de preparo da Cobertura</p>
+        <li>Coloque todos os ingredientes dentro de uma caneca de aproximadamente 300 ml ou mais.</li>
+        <li>Mexa até obter uma massa homogênea e leve ao micro-ondas por 3 minutos.</li>
+       <p>modo de preparo da calda </p>
     <ul>
-        <li>Leve todos os ingredientes ao fogo e mexa até que desgrude da panela.</li>
+        <li>Coloque todos os ingredientes em uma panela, leve ao fogo médio e misture até obter uma consistência grossa.</li>
+        <li>Despeje a calda sobre o bolo assim que retirá-lo do microondas.</li>
     </ol>
 </div>
