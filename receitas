@@ -132,8 +132,64 @@
             <li>Sirva quente e aproveite!</li>
         </ol>
     </div>
+    <div id="lasanha" class="recipe">
+        <h2>BROWNIE SUPER FÀCIL</h2>
+        <p>Ingredientes:</p>
+        <ul>
+            <li>6 colheres (sopa) bem cheias, de margarina sem sal</li>
+            <li>1/2 xícara (chá) chocolate em pó</li>
+            <li>2 xícaras (chá) açúcar</li>
+            <li>2 pitadas de sal</li>
+            <li>1 tablete de chocolate meio amargo picado em cubinhos</li>
+            <li>3/4 xícara (chá) achocolatado</li>
+            <li>1 e 1/4 xícara (chá) farinha de trigo</li>
+            <li>4 ovos</li>
+            <li>1 colher (chá) de extrato ou essência de baunilha</li>
+            <li>1/2 xícara (chá) de nozes picadas ou castanhas de caju granuladas
+            </li>
+        </ul>
+        <p>Modo de Preparo:</p>
+        <ol>
+            <li>Misture os ovos e o açúcar.</li>
+            <li>Despeje em uma assadeira, forrada com papel-manteiga e leve ao forno médio por 40 minutos.</li>
+            <li>O brownie estará pronto quando a parte de cima estiver levemente corada e, ao se espetar um palito, ele esteja levemente úmido (devido ao chocolate derretido).</li>
+            <li>Corte em quadrados ainda quente e sirva com uma bola de sorvete de creme, ou congele num saquinho para freezer.</li>
+            <li>Para descongelar, coloque o brownie num prato de sobremesa e aqueça no micro-ondas, potência alta, por 1 minuto.</li>
+           
+        </ol>
+    </div>
     <!-- Adicione mais receitas aqui -->
 </main>
 
 </body>
 </html>
+<div id="lasanha" class="recipe">
+    <h2>BOLO DE CENOURA </h2>
+    <p>Ingredientes:</p>
+    <ul>
+        <li>2 xícara (chá) de cenoura picada</li>
+        <li>2 xícaras (chá) de açúcar</li>
+        <li>1 xícara (chá) de óleo</li>
+        <li>4 ovos</li>
+        <li>2 xícaras (chá) de farinha de trigo</li>
+        <li>1 colher (café) de fermento em pó</li>
+
+    <p>Cobertura</p>
+    <ul> 
+        <li>1 lata de leite condensado</li>
+        <li>1 colher cheia de margarina</li>
+        <li>1 caixinha de creme de leite</li>
+        <li>3 colheres cheias de chocolate em pó</li>
+    <p>Modo de Preparo:</p>
+    <ol>
+        <li>Separe as claras das gemas.</li>
+        <li>Bata as claras em neve e reserve.</li>
+        <li>No liquidificador coloque a cenoura, o óleo e as gemas e bata por 5 minutos</li>
+        <li>Em uma tigela misture a farinha de trigo, o fermento e o açúcar, misture bem.</li>
+        <li>Depois junte os ingredientes batidos, misture bem, por último junte as claras em neve.</li>
+       <li>Em uma assadeira untada leve para assar em forno médio, pré-aquecido, por aproximadamente 40 minutos, ou até que fure com um palito e ele saia limpo.</li>
+       <p>modo de preparo da Cobertura</p>
+    <ul>
+        <li>Leve todos os ingredientes ao fogo e mexa até que desgrude da panela.</li>
+    </ol>
+</div>
